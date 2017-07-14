@@ -5,6 +5,7 @@ Call this function with a python call line of:
 python MER.py A B C D
 
 Where
+
   A is the number of lunar orbits (recommended value of 0.1)
   
   B is the percent (0 - 100) of lunar orbital speed for the rocket (recommended value of 100)
