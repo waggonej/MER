@@ -210,5 +210,3 @@ else:
 	plt.pause(500) # Did this because the program will immediately exit since plt is no longer blocking the thread from continuing execution. sloppy but works
 
 print(" ")
-
-print(" GOT season 7 comes out tonight!! ")
